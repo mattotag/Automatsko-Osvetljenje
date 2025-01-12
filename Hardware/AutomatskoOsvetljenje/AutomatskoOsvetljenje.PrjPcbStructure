@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=CONTROL.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=CONTROL.SchDoc|FileName=COVER PAGE.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=CONTROL.SchDoc|FileName=LED.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=CONTROL.SchDoc|FileName=POWER.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=CONTROL.SchDoc|FileName=SENSOR.SchDoc|SheetNumber=3
