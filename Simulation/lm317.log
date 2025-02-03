@@ -1,6 +1,7 @@
 LTspice 24.0.12 for Windows
 Circuit: * C:\Users\Matija\Desktop\AutomatskoOsvetljenje\Automatsko-Osvetljenje\Simulation\lm317.asc
-Start Time: Sun Feb  2 21:25:35 2025
+Start Time: Mon Feb  3 20:46:30 2025
+r9: both pins shorted together -- ignoring.
 solver = Normal
 Maximum thread count: 8
 tnom = 27
@@ -27,5 +28,5 @@ Gmin = 2.70769e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.438 seconds.
+Total elapsed time: 0.447 seconds.
 
