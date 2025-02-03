@@ -23,6 +23,7 @@ C3 N006 0 10µ
 R6 N006 N005 16
 R8 3V3 N001 270k
 R9 PIR PIR 10k
+C2 3V3 0 10n
 .model D D
 .lib C:\Users\Matija\AppData\Local\LTspice\lib\cmp\standard.dio
 .model NMOS NMOS
