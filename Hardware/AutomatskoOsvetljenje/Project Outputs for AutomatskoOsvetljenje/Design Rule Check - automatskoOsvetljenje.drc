@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\Projects\Automatsko-Osvetljenje\Hardware\AutomatskoOsvetljenje\automatskoOsvetljenje.PcbDoc
 Date     : 3/10/2025
-Time     : 9:19:01 PM
+Time     : 9:25:17 PM
 
 Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
 Rule Violations :0
@@ -66,4 +66,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
