@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=COVER PAGE.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=COVER PAGE.SchDoc|Designator=CONTROL|SchDesignator=CONTROL|FileName=CONTROL.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=CONTROL.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=COVER PAGE.SchDoc|Designator=LED|SchDesignator=LED|FileName=LED.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=LED.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=COVER PAGE.SchDoc|Designator=POWER|SchDesignator=POWER|FileName=POWER.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=POWER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=COVER PAGE.SchDoc|Designator=SENSORS|SchDesignator=SENSORS|FileName=SENSOR.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=SENSOR.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
