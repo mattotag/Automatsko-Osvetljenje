@@ -1,23 +1,16 @@
 Protel Design System Design Rule Check
 PCB File : D:\Projects\Automatsko-Osvetljenje\Hardware\AutomatskoOsvetljenje\automatskoOsvetljenje.PcbDoc
-Date     : 3/14/2025
-Time     : 12:15:40 AM
+Date     : 3/20/2025
+Time     : 10:00:30 PM
 
 Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
-   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad Q1-1(46.141mm,46.86mm) on Top Layer And Track (46.126mm,46.875mm)(46.126mm,47.955mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad Q1-1(46.141mm,46.86mm) on Top Layer And Track (46.126mm,46.875mm)(46.141mm,46.86mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (1 hole(s)) Top Layer And Track (43.612mm,46.871mm)(43.612mm,48.031mm) on Top Layer 
-Rule Violations :3
+Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-   Violation between Short-Circuit Constraint: Between Pad Q1-1(46.141mm,46.86mm) on Top Layer And Track (46.126mm,46.875mm)(46.126mm,47.955mm) on Top Layer Location : [X = 46.126mm][Y = 47.129mm]
-   Violation between Short-Circuit Constraint: Between Pad Q1-1(46.141mm,46.86mm) on Top Layer And Track (46.126mm,46.875mm)(46.141mm,46.86mm) on Top Layer Location : [X = 46.134mm][Y = 46.867mm]
-   Violation between Short-Circuit Constraint: Between Polygon Region (1 hole(s)) Top Layer And Track (43.612mm,46.871mm)(43.612mm,48.031mm) on Top Layer Location : [X = 43.612mm][Y = 48.107mm]
-Rule Violations :3
+Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net NetQ1_1 Between Track (43.601mm,46.86mm)(43.612mm,46.871mm) on Top Layer And Pad Q1-1(46.141mm,46.86mm) on Top Layer 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -62,9 +55,7 @@ Processing Rule : Silk to Silk (Clearance=0.127mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
-   Violation between Net Antennae: Track (43.612mm,46.871mm)(43.612mm,48.031mm) on Top Layer 
-   Violation between Net Antennae: Track (46.126mm,46.875mm)(46.141mm,46.86mm) on Top Layer 
-Rule Violations :2
+Rule Violations :0
 
 Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
 Rule Violations :0
@@ -73,6 +64,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=1816.048mm) (Prefered=12.7mm)
 Rule Violations :0
 
 
-Violations Detected : 9
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:01
