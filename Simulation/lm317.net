@@ -1,0 +1,50 @@
+* D:\Projects\Automatsko-Osvetljenje\Simulation\lm317.asc
+X§U1 0 PIR Signal 3V3 N003 N001 N001 3V3 NE555
+R1 3V3 PIR 10k
+R NC_01 N001 1000k
+C N001 0 10µ
+C1 N003 0 10n
+V1 VBAT 0 7.4
+D4 N009 0 LXZ1-PL02
+D8 N009 0 LXZ1-PL02
+D9 N009 0 LXZ1-PL02
+V2 3V3 0 3.3
+V4 PIR 0 PULSE(3.3 0 1 50n 50n 0.1 20)
+X§U3 N006 N007 0 TDTC114Y
+R3 N007 Signal 1k
+M1 LM N006 VBAT VBAT BSS84
+R2 N006 VBAT 10k
+R5 N007 0 10k
+R8 3V3 N001 270k
+X§U4 N009 N008 LM LT317A
+R6 N009 N008 8
+C3 LM 0 1µ
+R7 N009 0 1k
+X§U2 0 PIR OUT555 N004 N005 N002 N002 3V3 NE555
+R4 3V3 PIR 10k
+C2 N002 0 10µ
+C4 N005 0 10n
+R10 3V3 N002 270k
+V5 N004 0 PULSE(3.3 0 1.5 50n 50n 1 20)
+.model D D
+.lib C:\Users\DarkOS\AppData\Local\LTspice\lib\cmp\standard.dio
+.model NMOS NMOS
+.model PMOS PMOS
+.lib C:\Users\DarkOS\AppData\Local\LTspice\lib\cmp\standard.mos
+* T=1.1*R*C
+* R100k\nC100u\nT=11s
+.tran 15
+* BATERIJA
+* 167mW -> 0.167W
+* 1.25/R13=I
+* STLQ50C33R
+* AM312
+* 1MOmh
+* T=1.1*R*C
+* R100k\nC100u\nT=11s
+* .tran 15
+.lib Contrib/Toshiba/BJT/TDTC114Y_enc.lib
+.lib LT317A.sub
+.lib NE555.sub
+.backanno
+.end
