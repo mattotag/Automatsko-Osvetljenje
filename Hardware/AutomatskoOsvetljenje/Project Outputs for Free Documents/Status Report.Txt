@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [AutomatskoOsetljenjeV2.PcbDoc]
+   Generated File[AutomatskoOsetljenjeV2-RoundHoles-Plated.TXT]
+   Generated File[AutomatskoOsetljenjeV2-RoundHoles-NonPlated.TXT]
+   Generated File[AutomatskoOsetljenjeV2-SlotHoles-Plated.TXT]
+   Generated File[AutomatskoOsetljenjeV2.LDP]
+   Generated File[AutomatskoOsetljenjeV2.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 11:02:20 PM On 4/9/2025

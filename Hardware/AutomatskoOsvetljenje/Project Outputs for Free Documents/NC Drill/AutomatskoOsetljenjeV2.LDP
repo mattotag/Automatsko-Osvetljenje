@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: D:\Projects\Automatsko-Osvetljenje\Hardware\AutomatskoOsvetljenje\PCB\AutomatskoOsetljenjeV2.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=automatskoosetljenjev2-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=automatskoosetljenjev2-slotholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=automatskoosetljenjev2-roundholes-nonplated.txt|DrillLayers=gtl,gbl
