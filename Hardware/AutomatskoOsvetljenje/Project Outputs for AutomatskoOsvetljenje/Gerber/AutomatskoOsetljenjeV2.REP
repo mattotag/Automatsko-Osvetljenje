@@ -2,29 +2,38 @@
 FileName = AutomatskoOsetljenjeV2.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Pad Master
-      File : AutomatskoOsetljenjeV2.GPT
+Generating : Bottom 3D Body
+      File : AutomatskoOsetljenjeV2.GM3
 
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Board
+      File : AutomatskoOsetljenjeV2.GM8
+
+    Adding Layer      : Board
+
+
+Used DCodes :
+    D10
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : AutomatskoOsetljenjeV2.GPB
+
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
     D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
     D56
     D57
     D58
@@ -35,19 +44,6 @@ Used DCodes :
     D63
     D64
     D65
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : AutomatskoOsetljenjeV2.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
 *************************************************************
 
 *************************************************************
@@ -142,160 +138,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : AutomatskoOsetljenjeV2.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D20
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : AutomatskoOsetljenjeV2.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : AutomatskoOsetljenjeV2.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : AutomatskoOsetljenjeV2.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D20
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : AutomatskoOsetljenjeV2.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D10
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Top 3D Body
-      File : AutomatskoOsetljenjeV2.GM2
-
-    Adding Layer      : Top 3D Body
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom 3D Body
-      File : AutomatskoOsetljenjeV2.GM3
-
-    Adding Layer      : Bottom 3D Body
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Courtyard
-      File : AutomatskoOsetljenjeV2.GM6
-
-    Adding Layer      : Top Courtyard
-
-
-Used DCodes :
-    D10
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Bottom Courtyard
-      File : AutomatskoOsetljenjeV2.GM7
-
-    Adding Layer      : Bottom Courtyard
-
-
-Used DCodes :
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Board
-      File : AutomatskoOsetljenjeV2.GM8
-
-    Adding Layer      : Board
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : AutomatskoOsetljenjeV2.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D20
-    D51
-    D52
-    D53
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-*************************************************************
-
-*************************************************************
 Generating : Top Layer
       File : AutomatskoOsetljenjeV2.GTL
 
@@ -356,6 +198,154 @@ Used DCodes :
     D71
     D72
     D73
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : AutomatskoOsetljenjeV2.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : AutomatskoOsetljenjeV2.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : AutomatskoOsetljenjeV2.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : AutomatskoOsetljenjeV2.GM6
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D10
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : AutomatskoOsetljenjeV2.GM7
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : AutomatskoOsetljenjeV2.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D20
+    D51
+    D52
+    D53
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : AutomatskoOsetljenjeV2.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : AutomatskoOsetljenjeV2.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : AutomatskoOsetljenjeV2.GM2
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
 *************************************************************
 
 *************************************************************

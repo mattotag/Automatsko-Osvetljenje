@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: AutomatskoOsetljenjeV2.GBR   4/10/2025  5:17:28 PM
+Gerber File Extension Report For: AutomatskoOsetljenjeV2.GBR   4/10/2025  5:58:56 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -22,7 +22,6 @@ Layer Extension     Layer Description
 .GM6                Top Courtyard                           
 .GM7                Bottom Courtyard                        
 .GM8                Board                                   
-.GKO                Keep-Out Layer                          
 .GPT                Top Pad Master                          
 .GPB                Bottom Pad Master                       
 ------------------------------------------------------------------------------------------
