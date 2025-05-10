@@ -1,0 +1,10 @@
+* D:\Projects\Automatsko-Osvetljenje\Simulation\Draft4.asc
+D1 0 N002 1N750
+V1 N001 0 PWL(0 0 10 24)
+R2 N001 N002 10k
+R3 N002 0 9.1k
+.model D D
+.lib C:\Users\DarkOS\AppData\Local\LTspice\lib\cmp\standard.dio
+.tran 15
+.backanno
+.end
